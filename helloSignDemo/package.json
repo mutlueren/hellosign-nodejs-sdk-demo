@@ -1,0 +1,14 @@
+{
+  "name": "hellosigndemo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hellosign-sdk": "^1.4.0",
+    "multer": "^1.4.2"
+  }
+}
